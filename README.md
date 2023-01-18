@@ -13,8 +13,8 @@
  <!--기술스택-->
  ## Skill : four_leaf_clover:
  
- <img src="https://img.shields.io/badge/Java-61DAFB?style=flat&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-764ABC?style=flat&logo=Javascrip&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JAVA-61DAFB?style=flat&logo=JAVA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-764ABC?style=flat&logo=JavaScrip&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-CC6699?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4FC08D?style=flat&logo=MySQL&logoColor=white"/>
  
