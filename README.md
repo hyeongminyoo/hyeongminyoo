@@ -6,15 +6,15 @@
 <div align=center>
 <!-- 소개 -->
 
- ## Introduction : raised_hands:
+ ## 👋Introduction
  <br/><br/>
  
  
  <!--기술스택-->
- ## Skill : four_leaf_clover:
+ ## 💻Skill
  
  <img src="https://img.shields.io/badge/JAVA-61DAFB?style=flat&logo=JAVA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-764ABC?style=flat&logo=JavaScrip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-764ABC?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-CC6699?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4FC08D?style=flat&logo=MySQL&logoColor=white"/>
  
