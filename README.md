@@ -1,8 +1,25 @@
-<!-- ### Hi there 👋 --!>
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=&height=300&section=header&text=Hyeongmin%20Yoo&fontSize=50" />
+<!-- ### Hi there 👋 -->
 
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20HyeongMin&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
+<div align=center>
+<!-- 소개 -->
+
+ ## Introduction : raised_hands:
+ <br/><br/>
+ 
+ 
+ <!--기술스택-->
+ ## Skill : four_leaf_clover:
+ 
+ <img src="https://img.shields.io/badge/Java-61DAFB?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-764ABC?style=flat&logo=Javascrip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-CC6699?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4FC08D?style=flat&logo=MySQL&logoColor=white"/>
+ 
+ 
+</div>
 <!--
 **hyeongminyoo/hyeongminyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
