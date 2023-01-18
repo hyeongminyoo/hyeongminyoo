@@ -22,7 +22,7 @@
  <br/><br/>
  
  ## 📋Stats
-  [![hyeongminyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeongminyoo)](https://github.com/hyeongminyoo/github-readme-stats)
+  [![hyeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeongmin)](https://github.com/hyeongmin/github-readme-stats)
   
 
  
