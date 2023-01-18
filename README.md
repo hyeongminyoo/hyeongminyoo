@@ -17,7 +17,14 @@
   <img src="https://img.shields.io/badge/JavaScript-764ABC?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-CC6699?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4FC08D?style=flat&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-4FC08D?style=flat&logo=DockerL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-4FC08D?style=flat&logo=Docker&logoColor=white"/>
+ 
+ <br/><br/>
+ 
+ ## 📋Stats
+  [![hyeongminyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeongminyoo)](https://github.com/hyeongminyoo/github-readme-stats)
+  
+
  
 </div>
 <!--
